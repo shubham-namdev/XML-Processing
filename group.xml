@@ -1,0 +1,32 @@
+<?xml version="1.0" ?><group>
+    <person id="10">
+        <name>Albert Steam</name>
+        <age>20</age>
+        <weight>80</weight>
+        <height>188</height>
+    </person>
+    <person id="2">
+        <name>Mike Davis</name>
+        <age>45</age>
+        <weight>82</weight>
+        <height>185</height>
+    </person>
+    <person id="3">
+        <name>Sarah Pitt</name>
+        <age>56</age>
+        <weight>75</weight>
+        <height>144</height>
+    </person>
+    <person id="4">
+        <name>Jason Smith</name>
+        <age>48</age>
+        <weight>98</weight>
+        <height>195</height>
+    </person>
+    <person id="5">
+        <name>Andrew Read</name>
+        <age>35</age>
+        <weight>55</weight>
+        <height>150</height>
+    </person>
+<person id="6"><name>Antonio Garcia</name><age>28</age><weight>75</weight><height>168</height></person><person id="6"><name>Antonio Garcia</name><age>28</age><weight>75</weight><height>168</height></person></group>
